@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Rulo, a software developer passionate about exploring and building applications. While I’m still learning technologies like Java, Spring Boot, and REST APIs, I’m eager to grow and take on new challenges. I believe learning is a journey, and I’m excited about every step of it! When I’m not coding, I enjoy diving into new hobbies and sipping on a great cup of coffee ☕.
+Let's connect, collaborate, and share ideas! 🙌
+
+
+
 <!--
 **RaulADSI/RaulADSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
